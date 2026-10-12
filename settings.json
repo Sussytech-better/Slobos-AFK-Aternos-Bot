@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "pusd.minlet.space",
-    "port": 25964,
+    "ip": "pusd.mcsh.io",
+    "port": 25565,
     "version": "",
     "try-creative": false
   },
