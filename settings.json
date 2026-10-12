@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "pusd.mcsh.io",
-    "port": 25565,
+    "ip": "pusd.seedloaf.gg",
+    "port": ,
     "version": "",
     "try-creative": false
   },
