@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "pusdsmp.aternos.me",
-    "port": 59569,
+    "ip": "pusd.minlet.space",
+    "port": 25964,
     "version": "",
     "try-creative": false
   },
