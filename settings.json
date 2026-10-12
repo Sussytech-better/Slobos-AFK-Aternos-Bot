@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "pusd.seedloaf.gg",
-    "port": ,
+    "port": 25565,
     "version": "",
     "try-creative": false
   },
